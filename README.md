@@ -1,11 +1,4 @@
-<!-- # 우리FISA 4기 - 1주차 프로잭트 오늘의 운세 제작  -->
-
-<br>
-<br>
-<br>
-<br>
-
-# Frontend-1st-PokeResume
+# FrontEnd - First Project
 
 ## 👻 팀 소개
 
