@@ -3,7 +3,7 @@
 ## 👻 팀 소개
 | ![yj](https://github.com/user-attachments/assets/ca8b5b17-4d2a-4ad4-8027-a9db98fd9a25) | ![ye](https://github.com/user-attachments/assets/3649eb79-3d0c-4b12-ab07-c01032ba34bd) | ![sh](https://github.com/user-attachments/assets/320f9e2d-06ce-481a-b761-854dd6ae03bd) |
 | ----------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
-| [김지연](https://github.com/xixeonxim)) | [배승혁](https://github.com/devbae1101) | [김승호](https://github.com/KIMSSEUNG) | 
+| [김지연](https://github.com/xixeonxim) | [배승혁](https://github.com/devbae1101) | [김승호](https://github.com/KIMSSEUNG) | 
 | 팀장<br>JS<br>Figma<br>GitHub세팅 | 팀원<br>JS<br>GitHub관리 | 팀원<br>HTML<br>CSS |
 <br>
 
