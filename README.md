@@ -70,8 +70,4 @@ layout 디자인 참고 [ConcreteDesign System](https://www.figma.com/community/
 
 <br>
 
-## 🤯 회고
-
-### 프로젝트 환경 설정의 중요성
-
-### 비전공 화이팅
+## 비전공 화이팅
