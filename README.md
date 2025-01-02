@@ -1,7 +1,7 @@
 # FrontEnd - First Project
 
 ## 👻 팀 소개
-| !![KJ](https://github.com/user-attachments/assets/fbbbc0f5-e8ff-4ec0-ba0c-ad86616eab8f) | ![BS](https://github.com/user-attachments/assets/8e0fd65a-9995-4904-aa74-c1c094e32f66) | ![KS](https://github.com/user-attachments/assets/a0106927-4536-4146-b9c7-2964951ac851) |
+| ![KJ](https://github.com/user-attachments/assets/fbbbc0f5-e8ff-4ec0-ba0c-ad86616eab8f) | ![BS](https://github.com/user-attachments/assets/8e0fd65a-9995-4904-aa74-c1c094e32f66) | ![KS](https://github.com/user-attachments/assets/a0106927-4536-4146-b9c7-2964951ac851) |
 | ----------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
 | [김지연](https://github.com/xixeonxim) | [배승혁](https://github.com/devbae1101) | [김승호](https://github.com/KIMSSEUNG) | 
 | 팀장<br>JS<br>Figma<br>GitHub세팅 | 팀원<br>JS<br>GitHub관리 | 팀원<br>HTML<br>CSS |
